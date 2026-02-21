@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.AstrologiaHoraria" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- splash do sistema fica simples no v0; a “ritualização” acontece na UI -->
+    </style>
+</resources>
